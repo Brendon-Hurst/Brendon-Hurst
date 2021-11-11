@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on creating a git page.
+- 🌱 I’m currently learning how to use GitHub
+- 💬 Ask me about RPA
+- ⚡ Fun fact: Wolverine's real name isn't Logan. It's James Howlett. But who cares about Wolverine cause Deadpool is much better.
 <!--
 **Brendon-Hurst/Brendon-Hurst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
